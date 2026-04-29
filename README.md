@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Agung Muhammad Albaehaqi**.\
-Saya seorang **Mahasiswa** di Universitas Mayasari Bakti.\
+Saya seorang **Mobile Developer**.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/_7ckngunggg/)ku ya.
 
 <p align="left">
